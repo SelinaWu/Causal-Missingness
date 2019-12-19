@@ -1,4 +1,4 @@
-# Causal-Missingness
+# Empirical effectiveness of covariate missing data methods for causal inference
 ## Selina Wu, Mark Lock
 
 To read the paper please visit:
